@@ -13,7 +13,7 @@ I am an undergraduate student pursuing a Bachelor's degree in Computer Science a
 ### 🔭 What I'm currently working on
 - 🎓 Researching and developing solutions in **Software Engineering, Human-Computer Interaction (HCI), and UX Design**.
 - 💻 Working as a developer and researcher on various institutional software projects and web platforms.
-- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Instituto_Federal_do_Maranh%C3%A3o_-_Marca_Vertical_2015.svg/1920px-Instituto_Federal_do_Maranh%C3%A3o_-_Marca_Vertical_2015.svg.png"> Volunteering in social impact university extension projects, such as **Mermãs Digitais**.
+- 🤝 Volunteering in social impact university extension projects, such as **Mermãs Digitais**.
 
 ### 🛠️ Technologies & Tools
 
@@ -30,7 +30,7 @@ I am an undergraduate student pursuing a Bachelor's degree in Computer Science a
 **Frontend & Mobile:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
